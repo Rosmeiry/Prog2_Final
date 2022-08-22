@@ -1,0 +1,12 @@
+C:\Users\Fraym\source\repos\Proyecto Final\CAPA_ENTIDAD\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\Fraym\source\repos\Proyecto Final\CAPA_ENTIDAD\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\Fraym\source\repos\Proyecto Final\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.csproj.AssemblyReference.cache
+C:\Users\Fraym\source\repos\Proyecto Final\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\Fraym\source\repos\Proyecto Final\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.dll
+C:\Users\Fraym\source\repos\Proyecto Final\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.pdb
+C:\Users\roslastry\Downloads\Prog2_Final\Proyecto Final\CAPA_ENTIDAD\bin\Debug\CAPA_ENTIDAD.dll
+C:\Users\roslastry\Downloads\Prog2_Final\Proyecto Final\CAPA_ENTIDAD\bin\Debug\CAPA_ENTIDAD.pdb
+C:\Users\roslastry\Downloads\Prog2_Final\Proyecto Final\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.csproj.AssemblyReference.cache
+C:\Users\roslastry\Downloads\Prog2_Final\Proyecto Final\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.csproj.CoreCompileInputs.cache
+C:\Users\roslastry\Downloads\Prog2_Final\Proyecto Final\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.dll
+C:\Users\roslastry\Downloads\Prog2_Final\Proyecto Final\CAPA_ENTIDAD\obj\Debug\CAPA_ENTIDAD.pdb
